@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>April Studio And Cafe | Best Aesthetic Café in Dimapur</title>
+
+  <!-- SEO -->
+  <meta name="description" content="Visit April Studio And Cafe in Dimapur – aesthetic café with great coffee, desserts & vibes. Rated 4.6⭐. Perfect for hangouts & photos. Call now!">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background: #fff;
+      color: #222;
+    }
+    .container {
+      padding: 20px;
+      max-width: 1100px;
+      margin: auto;
+    }
+    h1, h2 {
+      margin-bottom: 10px;
+    }
+    .hero {
+      background: #111;
+      color: #fff;
+      text-align: center;
+      padding: 60px 20px;
+    }
+    .cta-btn {
+      display: inline-block;
+      margin: 10px;
+      padding: 12px 20px;
+      background: #ff6b6b;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    .section {
+      padding: 40px 20px;
+    }
+    .highlight {
+      background: #f9f9f9;
+    }
+    .menu-item {
+      margin: 10px 0;
+    }
+    .footer {
+      background: #111;
+      color: #fff;
+      text-align: center;
+      padding: 30px;
+    }
+  </style>
+</head>
+
+<body>
+
+<!-- HERO SECTION -->
+<section class="hero">
+  <h1>April Studio And Cafe</h1>
+  <p>Dimapur’s Most Aesthetic Café for Coffee, Creativity & Chill Vibes</p>
+
+  <p><strong>Rated 4.6⭐ by locals</strong></p>
+
+  <a href="tel:+91XXXXXXXXXX" class="cta-btn">📞 Call Now</a>
+  <a href="https://wa.me/91XXXXXXXXXX" class="cta-btn">💬 WhatsApp</a>
+  <a href="https://maps.google.com" class="cta-btn">📍 Get Directions</a>
+</section>
+
+<!-- WHY CHOOSE US -->
+<section class="section container">
+  <h2>Why People Love Us</h2>
+  <p>Not just a café — a place to relax, create, and capture moments.</p>
+
+  <ul>
+    <li>📸 Instagram-worthy aesthetic interiors</li>
+    <li>☕ High-quality coffee at affordable prices</li>
+    <li>🧑‍🤝‍🧑 Perfect for hangouts, dates & work</li>
+    <li>📍 Easy location near NH-29</li>
+  </ul>
+</section>
+
+<!-- MENU HIGHLIGHTS -->
+<section class="section highlight container">
+  <h2>Menu Highlights</h2>
+
+  <div class="menu-item">🧊 Signature Cold Coffee</div>
+  <div class="menu-item">🍵 Matcha & Specialty Drinks</div>
+  <div class="menu-item">🍰 Fresh Cakes & Desserts</div>
+  <div class="menu-item">🥪 Light Café Bites</div>
+
+  <p><strong>Crafted for taste & aesthetic experience</strong></p>
+</section>
+
+<!-- REVIEWS -->
+<section class="section container">
+  <h2>What Customers Say</h2>
+
+  <p>⭐⭐⭐⭐⭐ 4.6 Rating (Google)</p>
+
+  <blockquote>
+    “Very aesthetic café, perfect for photos”
+  </blockquote>
+
+  <blockquote>
+    “Coffee is really good”
+  </blockquote>
+
+  <blockquote>
+    “Great vibe for chilling with friends”
+  </blockquote>
+</section>
+
+<!-- LOCATION -->
+<section class="section highlight container">
+  <h2>Visit Us</h2>
+
+  <p>📍 NH-29, near HP Petrol Pump,<br>
+  Padum Pukhuri, Dimapur, Nagaland</p>
+
+  <p>🕒 Open Daily: 10 AM – 8 PM</p>
+
+  <a href="https://maps.google.com" class="cta-btn">📍 Navigate Now</a>
+</section>
+
+<!-- FINAL CTA -->
+<section class="section container" style="text-align:center;">
+  <h2>Ready for Coffee & Good Vibes?</h2>
+  <p>Don’t just scroll — come experience it.</p>
+
+  <a href="tel:+91XXXXXXXXXX" class="cta-btn">📞 Call Now</a>
+  <a href="https://wa.me/91XXXXXXXXXX" class="cta-btn">💬 WhatsApp</a>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <p>© 2026 April Studio And Cafe | Dimapur</p>
+</footer>
+
+</body>
+</html>
